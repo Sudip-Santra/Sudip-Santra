@@ -82,4 +82,4 @@ AI-powered platform for startup planning including business name generation, str
 
 <h3 align="left">📄 More About Me</h3>
 
-👉 To know more about my other projects and complete professional background, please download my resume: [Sudip_Santra_Resume.pdf](https://github.com/user-attachments/files/24421378/Sudip_Santra_Resume.pdf)
+👉 To know more about my complete professional background, please download my resume: [Sudip_Santra_Resume.pdf](https://github.com/user-attachments/files/24421378/Sudip_Santra_Resume.pdf)
