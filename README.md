@@ -4,10 +4,6 @@
 Full-Stack Software Developer focused on building scalable, production-grade applications with strong expertise in backend systems, PWAs, AI-powered platforms, secure authentication, payment integrations, and performance-oriented architecture.
 </h3>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudip-santra&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 <h3 align="left">🔗 Connect with me</h3>
@@ -23,7 +19,7 @@ Full-Stack Software Developer focused on building scalable, production-grade app
 
 ---
 
-<h3 align="left">🛠️ Skills</h3>
+## 🛠️ Technical Skills
 
 ### 👨‍💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -67,30 +63,33 @@ Full-Stack Software Developer focused on building scalable, production-grade app
 
 ---
 
-## 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudip-Santra&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api?username=Sudip-Santra&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sudip-Santra&theme=radical&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip-Santra&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## ⚡ Activity Graph:
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sudip-Santra&theme=redical"/>
-
----
-
-<h3 align="left">🚀 Featured Project</h3>
-
-<h4>🧠 Hustlle — AI Powered Business Assistant</h4>
-
-🔗 <b>Project Link:</b><br/>
-https://chat.hustlle.com/
-
-<p>
-AI-powered platform for startup planning including business name generation, strategic roadmap creation, and financial planning with real-time AI streaming responses and scalable backend architecture.
+### 🏆 GitHub Trophies:
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudip-santra&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-<h3 align="left">📄 More About Me</h3>
+### 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudip-Santra&theme=radical&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=Sudip-Santra&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sudip-Santra&theme=radical&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip-Santra&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sudip-Santra&theme=redical"/>
+<br>
+
+---
+
+## 🚀 Featured Project
+
+<h4>🧠 Hustlle — AI Powered Business Assistant</h4>
+🔗 <b>Project Link:</b> https://chat.hustlle.com/
+<p>
+<br> AI-powered platform for startup planning including business name generation, strategic roadmap creation, and financial planning with real-time AI streaming responses and scalable backend architecture.
+</p>
+
+---
+
+## 📄 More About Me
 
 👉 To know more about my complete professional background, please download my resume: [Sudip_Santra_Resume.pdf](https://github.com/user-attachments/files/24421378/Sudip_Santra_Resume.pdf)
