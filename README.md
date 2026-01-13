@@ -93,4 +93,4 @@ Full-Stack Software Developer focused on building scalable, production-grade app
 
 ## 📄 More About Me
 
-👉 To know more about my complete professional background, please download my resume: [Sudip_Santra_Resume.pdf](https://github.com/user-attachments/files/24552868/Sudip_Santra_Resume.pdf)
+👉 To know more about my complete professional background, please download my resume: [Sudip_Santra_Resume.pdf](https://github.com/user-attachments/files/24582031/Sudip_Santra_Resume.pdf)
