@@ -73,7 +73,6 @@ Full-Stack Software Developer focused on building scalable, production-grade app
 
 ### 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudip-Santra&theme=radical&hide_border=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sudip-Santra&theme=radical&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip-Santra&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sudip-Santra&theme=redical"/>
 <br>
@@ -92,4 +91,4 @@ Full-Stack Software Developer focused on building scalable, production-grade app
 
 ## 📄 More About Me
 
-👉 To know more about my complete professional background, please download my resume: [Sudip_Santra_Resume.pdf](https://github.com/user-attachments/files/24582031/Sudip_Santra_Resume.pdf)
+👉 To know more about my complete professional background, please download my resume: [Sudip_Santra_Resume.pdf](https://github.com/user-attachments/files/24757077/Sudip_Santra_Resume.pdf)
