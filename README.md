@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudip Santra</h1>
 
 <h4 align="center">
-Full-Stack Software Developer focused on building scalable, production-grade applications with strong expertise in backend systems, PWAs, AI-powered platforms, secure authentication, payment integrations, and performance-oriented architecture.
+Full-Stack Software Developer passionate about building scalable, production-grade applications with expertise in modern UI/UX design, high-performance frontend experiences, robust backend systems, PWAs, AI-powered platforms, secure authentication, payment integrations, and scalable architecture.
 </h4>
 
 ---
