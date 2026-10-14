@@ -89,10 +89,11 @@ Full-Stack Software Developer passionate about building scalable, production-gra
 
 ## 🚀 Featured Project
 
-<h4>🧠 Hustlle — AI Powered Business Assistant</h4>
-🔗 <b>Project Link:</b> https://chat.hustlle.com/
+<h4>📄 ProposalKit — Proposal & Invoice Management SaaS</h4>
+🔗 <b>Project Link:</b> https://proposalkit.in/
+
 <p>
-<br> AI-powered platform for startup planning including business name generation, strategic roadmap creation, and financial planning with real-time AI streaming responses and scalable backend architecture.
+<br> A full-stack SaaS platform for creating and managing professional business proposals, service agreements, invoices, and receipts. Designed to streamline client management, payment tracking, and business documentation through an intuitive interface and scalable application architecture.
 </p>
 
 ---
