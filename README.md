@@ -89,7 +89,8 @@ Full-Stack Software Developer passionate about building scalable, production-gra
 
 ## 🚀 Featured Project
 
-<h4>📄 ProposalKit — Proposal & Invoice Management SaaS</h4>
+<h4><img src="https://proposalkit.in/proposalkit-logo.png" alt="ProposalKit Logo" height="28" style="vertical-align: middle;" /> ProposalKit — Proposal & Invoice Management SaaS</h4>
+
 🔗 <b>Project Link:</b> https://proposalkit.in/
 
 <p>
