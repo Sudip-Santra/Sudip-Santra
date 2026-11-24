@@ -202,24 +202,16 @@ From secure authentication and payments to fast, polished interfaces, I own the 
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudip-santra&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudip-Santra&theme=radical&hide_border=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sudip-Santra&theme=radical&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudip-Santra&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
 <br><br>
 
 ---
 
 ## 🚀 Featured Project
 
-<h4><img src="https://proposalkit.in/proposalkit-logo.png" alt="ProposalKit Logo" height="28" style="vertical-align: middle;" /> ProposalKit — Proposal & Invoice Management SaaS</h4>
+<h4><img src="https://proposalkit.in/proposalkit-logo.png" alt="ProposalKit Logo" height="28" style="vertical-align: middle;" /> ProposalKit - Proposal & Invoice Management SaaS</h4>
 
 🔗 <b>Project Link:</b> https://proposalkit.in/
 
