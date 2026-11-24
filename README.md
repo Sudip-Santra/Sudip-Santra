@@ -12,11 +12,22 @@ From secure authentication and payments to fast, polished interfaces, I own the 
 
 <h3 align="left">🔗 Connect with me</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/sudip-santra" target="_blank"><img src="./assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:work.sudip16@gmail.com"><img src="./assets/icons/gmail.svg" width="36" height="36" alt="Gmail" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://linkedin.com/in/sudip-santra" target="_blank"><img src="./assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
+      <br /><sub><b><a href="https://linkedin.com/in/sudip-santra" target="_blank">/sudip-santra/</a></b></sub>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:work.sudip16@gmail.com"><img src="./assets/icons/gmail.svg" width="40" height="40" alt="Gmail" /></a>
+      <br /><sub><b><a href="mailto:work.sudip16@gmail.com">work.sudip16@gmail.com</a></b></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/Sudip-Santra" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/github-dark.svg" /><img src="./assets/icons/github.svg" width="40" height="40" alt="GitHub" /></picture></a>
+      <br /><sub><b><a href="https://github.com/Sudip-Santra" target="_blank">/Sudip-Santra/</a></b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
