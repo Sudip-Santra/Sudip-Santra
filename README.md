@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Software Engineer · System Design · AI-Enabled Development</h3>
 
 <p align="center">
-I build production-grade SaaS platforms end to end, grounded in strong <b>system design fundamentals</b>: scalable architecture, clean APIs, and data models that hold up under real load.<br />
+I build production-grade software end to end, grounded in strong <b>system design fundamentals</b>: scalable architecture, clean APIs, and data models that hold up under real load.<br />
 As an <b>AI-enabled developer</b>, I bring LLMs and AI workflows into real products, and use AI tooling to ship faster without compromising on quality.<br />
 From secure authentication and payments to fast, polished interfaces, I own the full stack and deliver software built to last.
 </p>
