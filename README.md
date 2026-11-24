@@ -10,6 +10,17 @@ From secure authentication and payments to fast, polished interfaces, I own the 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudip-Santra&theme=radical" width="100%" alt="GitHub profile summary" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudip-Santra&theme=radical&hide_border=true" width="100%" alt="GitHub streak stats" />
+</p>
+
+---
+
 <h3 align="left">🔗 Connect with me</h3>
 
 <table>
@@ -199,13 +210,6 @@ From secure authentication and payments to fast, polished interfaces, I own the 
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudip-Santra&theme=radical&hide_border=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sudip-Santra&theme=radical&hide_border=true)<br>
-<br><br>
 
 ---
 
