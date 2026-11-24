@@ -1,17 +1,11 @@
 <h1 align="center">Sudip Santra</h1>
 
-<h3 align="center">Full-Stack Software Engineer · SaaS & AI Platform Builder</h3>
+<h3 align="center">Full-Stack Software Engineer · System Design · AI-Enabled Development</h3>
 
 <p align="center">
-I design, build, and ship production-grade web platforms end to end, from product architecture and backend systems to fast, polished user interfaces.
-</p>
-
-<p align="center">
-My work centres on scalable SaaS products, AI-powered workflows, secure authentication, and payment integrations, built with clean architecture that holds up as products and teams grow.
-</p>
-
-<p align="center">
-<b>Focus areas:</b> System Architecture &nbsp;•&nbsp; SaaS Platforms &nbsp;•&nbsp; AI Integrations &nbsp;•&nbsp; Progressive Web Apps &nbsp;•&nbsp; Performance & UX
+I build production-grade SaaS platforms end to end, grounded in strong <b>system design fundamentals</b>: scalable architecture, clean APIs, and data models that hold up under real load.<br />
+As an <b>AI-enabled developer</b>, I bring LLMs and AI workflows into real products, and use AI tooling to ship faster without compromising on quality.<br />
+From secure authentication and payments to fast, polished interfaces, I own the full stack and deliver software built to last.
 </p>
 
 ---
