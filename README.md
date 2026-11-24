@@ -1,20 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sudip Santra</h1>
+<h1 align="center">Sudip Santra</h1>
 
-<h4 align="center">
-Full-Stack Software Developer passionate about building scalable, production-grade applications with expertise in modern UI/UX design, high-performance frontend experiences, robust backend systems, PWAs, AI-powered platforms, secure authentication, payment integrations, and scalable architecture.
-</h4>
+<h3 align="center">Full-Stack Software Engineer · SaaS & AI Platform Builder</h3>
+
+<p align="center">
+I design, build, and ship production-grade web platforms end to end, from product architecture and backend systems to fast, polished user interfaces.
+</p>
+
+<p align="center">
+My work centres on scalable SaaS products, AI-powered workflows, secure authentication, and payment integrations, built with clean architecture that holds up as products and teams grow.
+</p>
+
+<p align="center">
+<b>Focus areas:</b> System Architecture &nbsp;•&nbsp; SaaS Platforms &nbsp;•&nbsp; AI Integrations &nbsp;•&nbsp; Progressive Web Apps &nbsp;•&nbsp; Performance & UX
+</p>
 
 ---
 
 <h3 align="left">🔗 Connect with me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/sudip-santra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sudip%20Santra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:work.sudip16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-work.sudip16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/sudip-santra" target="_blank"><img src="./assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:work.sudip16@gmail.com"><img src="./assets/icons/gmail.svg" width="36" height="36" alt="Gmail" /></a>
 </p>
 
 ---
@@ -22,53 +29,171 @@ Full-Stack Software Developer passionate about building scalable, production-gra
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
+      <br /><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" />
+      <br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/php.svg" width="48" height="48" alt="PHP" />
+      <br /><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/java.svg" width="48" height="48" alt="Java" />
+      <br /><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/c.svg" width="48" height="48" alt="C" />
+      <br /><sub><b>C</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/icons/react.svg" width="48" height="48" alt="React" />
+      <br /><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/nextjs-dark.svg" /><img src="./assets/icons/nextjs.svg" width="48" height="48" alt="Next.js" /></picture>
+      <br /><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/svelte.svg" width="48" height="48" alt="SvelteKit" />
+      <br /><sub><b>SvelteKit</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/vite.svg" width="48" height="48" alt="Vite" />
+      <br /><sub><b>Vite</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/redux.svg" width="48" height="48" alt="Redux" />
+      <br /><sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/zustand.svg" width="48" height="48" alt="Zustand" />
+      <br /><sub><b>Zustand</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/html5.svg" width="48" height="48" alt="HTML5" />
+      <br /><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/css3.svg" width="48" height="48" alt="CSS3" />
+      <br /><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
+      <br /><sub><b>Tailwind CSS</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" />
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/express-dark.svg" /><img src="./assets/icons/express.svg" width="48" height="48" alt="Express.js" /></picture>
+      <br /><sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/fastapi.svg" width="48" height="48" alt="FastAPI" />
+      <br /><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/flask-dark.svg" /><img src="./assets/icons/flask.svg" width="48" height="48" alt="Flask" /></picture>
+      <br /><sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="96">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/django-dark.svg" /><img src="./assets/icons/django.svg" width="48" height="48" alt="Django" /></picture>
+      <br /><sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/laravel.svg" width="48" height="48" alt="Laravel" />
+      <br /><sub><b>Laravel</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+      <br /><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/mysql.svg" width="48" height="48" alt="MySQL" />
+      <br /><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      <br /><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/redis.svg" width="48" height="48" alt="Redis" />
+      <br /><sub><b>Redis</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" />
+      <br /><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/github-dark.svg" /><img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" /></picture>
+      <br /><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/figma.svg" width="48" height="48" alt="Figma" />
+      <br /><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/postman.svg" width="48" height="48" alt="Postman" />
+      <br /><sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" />
+      <br /><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/aws-dark.svg" /><img src="./assets/icons/aws.svg" width="48" height="48" alt="AWS" /></picture>
+      <br /><sub><b>AWS</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
